@@ -1,5 +1,4 @@
 # app-dev
-My first repository
 
 # My Favorite Series: **The King: Eternal Monarch**
 
